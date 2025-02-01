@@ -4,16 +4,16 @@
 
 Submitted by: **Ramita Rathore**
 
-**Name of your app** is an app that provides news updates regarding the planet and its ever changing environment. 
+**Name of your app** is an app that provides news updates regarding the planet and its ever-changing environment. 
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -24,7 +24,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 App: Youtube
-Feature: Smooth transitions between Youtube Shorts. 
+Feature: Smooth transitions between YouTube shorts. 
 Feature: Nice dark mode
 
 App: Libby
@@ -33,9 +33,9 @@ Feature: Scroll bar for chapters
 
 App: YoutubeMusic
 Feature: Good UI
-Feature: Overall easy to use interface.
+Feature: Overall, easy to use interface.
 
-Idea: Build an app that provides news on the environment and climate change. Keeps users up to date with the latest news about what is happening with the planet. They can filter with the topics that they are most interestde about and subscribe to recieve updates whenever a topic of their choosing has a new article published. This can also include a sections for tips on how to be more environmentally concious such as recycling tips. 
+Idea: Build an app that provides news on the environment and climate change. Keeps users up to date with the latest news about what is happening with the planet. They can filter with the topics that they are most interested in and subscribe to receive updates whenever a topic of their choosing has a new article published. This can also include a section for tips on how to be more environmentally conscious, such as recycling tips. 
 
 ## Notes
 
